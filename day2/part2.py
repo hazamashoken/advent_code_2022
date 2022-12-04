@@ -1,5 +1,6 @@
 with open("input.txt", "r") as f:
 	lines = f.read().splitlines()
+ 
 '''
 X = 1 rock            A = rock paper 2
 Y = 2 paper            B = paper sicssors 3
